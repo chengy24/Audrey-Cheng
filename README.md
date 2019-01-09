@@ -1,6 +1,13 @@
 ## Education
-University of Toronto, Bachelor of Science
+University of Toronto, 
+Bachelor of Science
 Computer Science Specialist, Software Engineering Stream
+
+## Experience
+# Teaching Assistant
+- weriwu
+- aeoriuw
+
 
 ### Markdown
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
