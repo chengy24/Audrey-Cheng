@@ -9,7 +9,7 @@ Computer Science Specialist, Software Engineering Stream
 - Hosted weekly 1.5 hours Q&A sessions to help students with difficult topics
 - Marked exams and assignments for 700+ students
 
-**SENIOR BUSINESS ANALYST (CO-OP) | CIBC | 2016 May - August**
+**Senior Business Analyst (Co-op) | CIBC | 2016 May - August**
 
 - Developed VBA macros to reconcile trades during the conversion of legacy system to new system and increased efficiency for routine and manually-operated tasks
 - Built VBA automated report program for system outages from availability monitoring
@@ -17,7 +17,7 @@ Computer Science Specialist, Software Engineering Stream
 - Demonstrated strong initiative by hosting meetings after parallel testing for status updates and potential issues for
 upcoming testing
 
-**ARROW FASTENER | PROGRAMMER ANALYST | May 2015 – August 2015**
+**Arrow Fastener | Programmer Analyst | May 2015 – August 2015**
 - A screw manufacturer company in need of updating/migrating from obsolete database management system,FoxPro2.6,to C#.NET and Microsoft SQL Server
 • Translated business requirements to development scope by building C# Winforms application and created userguide for each program
 • Participated in regular SCRUM meetings to discuss issues,outstanding development tasks and estimate new tasks’ delivery time
