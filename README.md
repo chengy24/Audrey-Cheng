@@ -10,7 +10,6 @@ Computer Science Specialist, Software Engineering Stream
 - Marked exams and assignments for 700+ students
 
 **Senior Business Analyst (Co-op) | CIBC | 2016 May - August**
-
 - Developed VBA macros to reconcile trades during the conversion of legacy system to new system and increased efficiency for routine and manually-operated tasks
 - Built VBA automated report program for system outages from availability monitoring
 - Updated webpage for displaying data and filtering results using AngularJS, HTML5, SQL queries with IntelliJ
