@@ -4,9 +4,10 @@ Bachelor of Science
 Computer Science Specialist, Software Engineering Stream
 
 ## Experience
-# Teaching Assistant
-- weriwu
-- aeoriuw
+**Teaching Assistant**
+i taught
+- i taught
+
 
 
 ### Markdown
