@@ -18,8 +18,8 @@ upcoming testing
 
 **Arrow Fastener | Programmer Analyst | May 2015 – August 2015**
 - A screw manufacturer company in need of updating/migrating from obsolete database management system,FoxPro2.6,to C#.NET and Microsoft SQL Server
-• Translated business requirements to development scope by building C# Winforms application and created userguide for each program
-• Participated in regular SCRUM meetings to discuss issues,outstanding development tasks and estimate new tasks’ delivery time
+- Translated business requirements to development scope by building C# Winforms application and created userguide for each program
+- Participated in regular SCRUM meetings to discuss issues,outstanding development tasks and estimate new tasks’ delivery time
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/cheng-audrey-153462b0/) !
 ### Markdown
