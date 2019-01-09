@@ -22,7 +22,7 @@ upcoming testing
 • Translated business requirements to development scope by building C# Winforms application and created userguide for each program
 • Participated in regular SCRUM meetings to discuss issues,outstanding development tasks and estimate new tasks’ delivery time
 
-Connect with me on [LinkedIn] (https://www.linkedin.com/in/cheng-audrey-153462b0/) !
+Connect with me on [LinkedIn](https://www.linkedin.com/in/cheng-audrey-153462b0/) !
 ### Markdown
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
