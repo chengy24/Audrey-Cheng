@@ -4,9 +4,10 @@ Bachelor of Science
 Computer Science Specialist, Software Engineering Stream
 
 ## Experience
-**Teaching Assistant**
-i taught
-- i taught
+**Teaching Assistant, U of T, 2017 Sep-Dec**
+- Conducted tutorial with high quality material from detailed preparation, reported helpful with deeper understanding from students 
+- Hosted weekly 1.5 hours Q&A sessions to help students with difficult topics
+- Marked exams and assignments for 700+ students
 
 
 
